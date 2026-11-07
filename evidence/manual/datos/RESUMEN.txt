@@ -1,0 +1,7 @@
+Evaluación manual nueva: doce textos de la autora, cuatro familias; sin ejemplos en el prompt.
+N1: base 2/4 → adaptador 3/4
+N2: base 0/4 → adaptador 2/4
+N3: base 0/4 → adaptador 2/4
+control_sin_comillas: base 0/0 → adaptador 0/0
+control_comillas_correctas: base 0/0 → adaptador 0/0
+No se han medido aquí GSM8K, IFEval ni MMLU.

@@ -1,0 +1,113 @@
+{"id": "P2_001:N1", "prediction": "[PERSONA_1] lo tenía claro: «Sí, estoy de acuerdo».", "generated_tokens": 19, "hit_token_limit": false}
+{"id": "P2_001:N2", "prediction": "[PERSONA_1] lo tenía claro: «Sí, estoy de acuerdo, pero antes espero un “no” de vuestra parte».", "generated_tokens": 32, "hit_token_limit": false}
+{"id": "P2_001:N3", "prediction": "[PERSONA_1] lo tenía claro: «Sí, estoy de acuerdo, pero antes espero un \"no, la palabra libro no es la correcta\" de vuestra parte».", "generated_tokens": 41, "hit_token_limit": false}
+{"id": "P2_002:N1", "prediction": "[PERSONA_1] lo tenía claro: «Sí, estoy de acuerdo».", "generated_tokens": 19, "hit_token_limit": false}
+{"id": "P2_002:N2", "prediction": "[PERSONA_1] lo tenía claro: «Sí, estoy de acuerdo, pero antes espero un “no” de vuestra parte».", "generated_tokens": 32, "hit_token_limit": false}
+{"id": "P2_002:N3", "prediction": "[PERSONA_1] lo tenía claro: «Sí, estoy de acuerdo, pero antes espero un \"no, la palabra \"mesa\" no es la correcta\" de vuestra parte».", "generated_tokens": 44, "hit_token_limit": false}
+{"id": "P2_003:N1", "prediction": "[PERSONA_1] lo tenía claro: «Sí, estoy de acuerdo».", "generated_tokens": 19, "hit_token_limit": false}
+{"id": "P2_003:N2", "prediction": "[PERSONA_1] lo tenía claro: «Sí, estoy de acuerdo, pero antes espero un “no” de vuestra parte».", "generated_tokens": 32, "hit_token_limit": false}
+{"id": "P2_003:N3", "prediction": "[PERSONA_1] lo tenía claro: «Sí, estoy de acuerdo, pero antes espero un \"no, la palabra silla no es la correcta\" de vuestra parte».", "generated_tokens": 42, "hit_token_limit": false}
+{"id": "P2_004:N1", "prediction": "[PERSONA_1] lo tenía claro: «Sí, estoy de acuerdo».", "generated_tokens": 19, "hit_token_limit": false}
+{"id": "P2_004:N2", "prediction": "[PERSONA_1] lo tenía claro: «Sí, estoy de acuerdo, pero antes espero un “no” de vuestra parte».", "generated_tokens": 32, "hit_token_limit": false}
+{"id": "P2_004:N3", "prediction": "[PERSONA_1] lo tenía claro: «Sí, estoy de acuerdo, pero antes espero un \"no, la palabra \"papel\" no es la correcta\" de vuestra parte».", "generated_tokens": 44, "hit_token_limit": false}
+{"id": "P2_005:N1", "prediction": "[PERSONA_1] lo tenía claro: «Sí, estoy de acuerdo».", "generated_tokens": 19, "hit_token_limit": false}
+{"id": "P2_005:N2", "prediction": "[PERSONA_1] lo tenía claro: «Sí, estoy de acuerdo, pero antes espero un “no” de vuestra parte».", "generated_tokens": 32, "hit_token_limit": false}
+{"id": "P2_005:N3", "prediction": "[PERSONA_1] lo tenía claro: \"Sí, estoy de acuerdo, pero antes espero un 'no, la palabra \"lapicero\" no es la correcta' de vuestra parte\".", "generated_tokens": 45, "hit_token_limit": false}
+{"id": "P2_006:N1", "prediction": "[PERSONA_1] lo tenía claro: «Sí, estoy de acuerdo».", "generated_tokens": 19, "hit_token_limit": false}
+{"id": "P2_006:N2", "prediction": "[PERSONA_1] lo tenía claro: «Sí, estoy de acuerdo, pero antes espero un “no” de vuestra parte».", "generated_tokens": 32, "hit_token_limit": false}
+{"id": "P2_006:N3", "prediction": "[PERSONA_1] lo tenía claro: \"Sí, estoy de acuerdo, pero antes espero un «no, la palabra «lámpara» no es la correcta» de vuestra parte\".", "generated_tokens": 45, "hit_token_limit": false}
+{"id": "P3_001:N1", "prediction": "«El libro no es la solución», afirmó [PERSONA_1].", "generated_tokens": 17, "hit_token_limit": false}
+{"id": "P3_001:N2", "prediction": "«La palabra \"libro\" no es la solución», afirmó [PERSONA_1].", "generated_tokens": 21, "hit_token_limit": false}
+{"id": "P3_001:N3", "prediction": "\"La frase «la palabra \"libro\" es incorrecta» no es la solución», afirmó [PERSONA_1].", "generated_tokens": 28, "hit_token_limit": false}
+{"id": "P3_002:N1", "prediction": "«El papel no es la solución», afirmó [PERSONA_1].", "generated_tokens": 17, "hit_token_limit": false}
+{"id": "P3_002:N2", "prediction": "«La palabra \"papel\" no es la solución», afirmó [PERSONA_1].", "generated_tokens": 21, "hit_token_limit": false}
+{"id": "P3_002:N3", "prediction": "\"La frase «la palabra \"papel\" es incorrecta» no es la solución», afirmó [PERSONA_1].", "generated_tokens": 28, "hit_token_limit": false}
+{"id": "P3_003:N1", "prediction": "«El lapicero no es la solución», afirmó [PERSONA_1].", "generated_tokens": 19, "hit_token_limit": false}
+{"id": "P3_003:N2", "prediction": "«La palabra \"lapicero\" no es la solución», afirmó [PERSONA_1].", "generated_tokens": 22, "hit_token_limit": false}
+{"id": "P3_003:N3", "prediction": "\"La frase «la palabra \"lapicero\" es incorrecta» no es la solución», afirmó [PERSONA_1].", "generated_tokens": 29, "hit_token_limit": false}
+{"id": "P3_004:N1", "prediction": "«El cojín no es la solución», afirmó [PERSONA_1].", "generated_tokens": 19, "hit_token_limit": false}
+{"id": "P3_004:N2", "prediction": "«La palabra \"cojín\" no es la solución», afirmó [PERSONA_1].", "generated_tokens": 22, "hit_token_limit": false}
+{"id": "P3_004:N3", "prediction": "\"La frase «la palabra \"cojín\" es incorrecta» no es la solución», afirmó [PERSONA_1].", "generated_tokens": 29, "hit_token_limit": false}
+{"id": "P4_001:N1", "prediction": "Mi tesis demuestra que «cualquier persona con las vivencias adecuadas lo tendrá fácil con un software de inteligencia artificial».", "generated_tokens": 30, "hit_token_limit": false}
+{"id": "P4_001:N2", "prediction": "Mi tesis demuestra que «cualquier persona con las vivencias adecuadas podrá \"entenderse\" con un software de inteligencia artificial».", "generated_tokens": 33, "hit_token_limit": false}
+{"id": "P4_001:N3", "prediction": "Mi tesis demuestra que \"cualquier persona con las vivencias adecuadas podrá \"entablar algo parecido a una 'amistad\"\" con un software de inteligencia artificial\".", "generated_tokens": 42, "hit_token_limit": false}
+{"id": "P4_002:N1", "prediction": "Mi tesis demuestra que «cualquier persona con las vivencias adecuadas lo tendrá fácil con un dispositivo de realidad virtual».", "generated_tokens": 29, "hit_token_limit": false}
+{"id": "P4_002:N2", "prediction": "Mi tesis demuestra que «cualquier persona con las vivencias adecuadas podrá \"entenderse\" con un dispositivo de realidad virtual».", "generated_tokens": 32, "hit_token_limit": false}
+{"id": "P4_002:N3", "prediction": "Mi tesis demuestra que \"cualquier persona con las vivencias adecuadas podrá \"entablar algo parecido a una 'amistad\"\" con un dispositivo de realidad virtual\".", "generated_tokens": 41, "hit_token_limit": false}
+{"id": "P4_003:N1", "prediction": "Mi tesis demuestra que «cualquier persona con las vivencias adecuadas lo tendrá fácil con una plataforma de aprendizaje online».", "generated_tokens": 31, "hit_token_limit": false}
+{"id": "P4_003:N2", "prediction": "Mi tesis demuestra que «cualquier persona con las vivencias adecuadas podrá \"entenderse\" con una plataforma de aprendizaje online».", "generated_tokens": 34, "hit_token_limit": false}
+{"id": "P4_003:N3", "prediction": "Mi tesis demuestra que \"cualquier persona con las vivencias adecuadas podrá \"entablar algo parecido a una 'amistad'\" con una plataforma de aprendizaje online\".", "generated_tokens": 43, "hit_token_limit": false}
+{"id": "P4_004:N1", "prediction": "Mi tesis demuestra que «cualquier persona con las vivencias adecuadas lo tendrá fácil con una aplicación móvil de mensajería».", "generated_tokens": 31, "hit_token_limit": false}
+{"id": "P4_004:N2", "prediction": "Mi tesis demuestra que \"cualquier persona con las vivencias adecuadas podrá \"entendirse\" con una aplicación móvil de mensajería\".", "generated_tokens": 34, "hit_token_limit": false}
+{"id": "P4_004:N3", "prediction": "Mi tesis demuestra que \"cualquier persona con las vivencias adecuadas podrá \"entablar algo parecido a una 'amistad'\" con una aplicación móvil de mensajería\".", "generated_tokens": 43, "hit_token_limit": false}
+{"id": "P4_005:N1", "prediction": "Mi tesis demuestra que «cualquier persona con las vivencias adecuadas lo tendrá fácil con una red social».", "generated_tokens": 27, "hit_token_limit": false}
+{"id": "P4_005:N2", "prediction": "Mi tesis demuestra que \"cualquier persona con las vivencias adecuadas podrá \"entendirse\" con una red social\".", "generated_tokens": 30, "hit_token_limit": false}
+{"id": "P4_005:N3", "prediction": "Mi tesis demuestra que \"cualquier persona con las vivencias adecuadas podrá \"entablar algo parecido a una 'amistad\"\" con una red social\".", "generated_tokens": 39, "hit_token_limit": false}
+{"id": "P4_006:N1", "prediction": "Mi tesis demuestra que «cualquier persona con las vivencias adecuadas lo tendrá fácil con una consola de juegos».", "generated_tokens": 29, "hit_token_limit": false}
+{"id": "P4_006:N2", "prediction": "Mi tesis demuestra que \"cualquier persona con las vivencias adecuadas podrá \"entendirse\" con una consola de juegos\".", "generated_tokens": 32, "hit_token_limit": false}
+{"id": "P4_006:N3", "prediction": "Mi tesis demuestra que \"cualquier persona con las vivencias adecuadas podrá \"entablar algo parecido a una \"amistad\"\" con una consola de juegos\".", "generated_tokens": 41, "hit_token_limit": false}
+{"id": "P5_001:N1", "prediction": "«¿Qué quieres decir con lo de que me odias?», me preguntó, y seguidamente le respondí: «Pues eso mismo…».", "generated_tokens": 35, "hit_token_limit": false}
+{"id": "P5_001:N2", "prediction": "¿Qué quieres decir con lo de que «no eres mi novio»?, me preguntó y seguidamente le respondí: «Pues eso mismo…».", "generated_tokens": 37, "hit_token_limit": false}
+{"id": "P5_001:N3", "prediction": "¿Qué quieres decir con lo de que «no eres mi novio, sino tan solo un \"compañero\"»?, me preguntó y seguidamente le respondí: «Pues eso mismo…».", "generated_tokens": 47, "hit_token_limit": false}
+{"id": "P5_002:N1", "prediction": "«¿Qué quieres decir con lo de que me odias?», me preguntó, y seguidamente le respondí: «Pues eso mismo…».", "generated_tokens": 35, "hit_token_limit": false}
+{"id": "P5_002:N2", "prediction": "¿Qué quieres decir con lo de que «no eres mi novio»?, me preguntó y seguidamente le respondí: «Pues eso mismo…».", "generated_tokens": 37, "hit_token_limit": false}
+{"id": "P5_002:N3", "prediction": "¿Qué quieres decir con lo de que «no eres mi novio, sino tan solo un \"amigo\"»?, me preguntó y seguidamente le respondí: «Pues eso mismo…».", "generated_tokens": 46, "hit_token_limit": false}
+{"id": "P5_003:N1", "prediction": "«¿Qué quieres decir con lo de que me odias?», me preguntó, y seguidamente le respondí: «Pues eso mismo…».", "generated_tokens": 35, "hit_token_limit": false}
+{"id": "P5_003:N2", "prediction": "¿Qué quieres decir con lo de que «no eres mi novio»?, me preguntó y seguidamente le respondí: «Pues eso mismo…».", "generated_tokens": 37, "hit_token_limit": false}
+{"id": "P5_003:N3", "prediction": "¿Qué quieres decir con lo de que «no eres mi novio, sino tan solo un \"hermano\"»?, me preguntó y seguidamente le respondí: «Pues eso mismo…».", "generated_tokens": 47, "hit_token_limit": false}
+{"id": "P5_004:N1", "prediction": "«¿Qué quieres decir con lo de que me odias?», me preguntó, y seguidamente le respondí: «Pues eso mismo…».", "generated_tokens": 35, "hit_token_limit": false}
+{"id": "P5_004:N2", "prediction": "¿Qué quieres decir con lo de que «no eres mi novio»?, me preguntó y seguidamente le respondí: «Pues eso mismo…».", "generated_tokens": 37, "hit_token_limit": false}
+{"id": "P5_004:N3", "prediction": "¿Qué quieres decir con lo de que 'no eres mi novio, sino tan solo un \"vecino\"',? me preguntó y seguidamente le respondí: 'Pues eso mismo…'.", "generated_tokens": 45, "hit_token_limit": false}
+{"id": "P5_005:N1", "prediction": "«¿Qué quieres decir con lo de que me odias?», me preguntó, y seguidamente le respondí: «Pues eso mismo…».", "generated_tokens": 35, "hit_token_limit": false}
+{"id": "P5_005:N2", "prediction": "¿Qué quieres decir con lo de que «no eres mi novio»?, me preguntó y seguidamente le respondí: «Pues eso mismo…».", "generated_tokens": 37, "hit_token_limit": false}
+{"id": "P5_005:N3", "prediction": "¿Qué quieres decir con lo de que «no eres mi novio, sino tan solo un \"compadre\"»?, me preguntó y seguidamente le respondí: «Pues eso mismo…».", "generated_tokens": 47, "hit_token_limit": false}
+{"id": "P5_006:N1", "prediction": "«¿Qué quieres decir con lo de que me odias?», me preguntó, y seguidamente le respondí: «Pues eso mismo…».", "generated_tokens": 35, "hit_token_limit": false}
+{"id": "P5_006:N2", "prediction": "¿Qué quieres decir con lo de que «no eres mi novio»?, me preguntó y seguidamente le respondí: «Pues eso mismo…».", "generated_tokens": 37, "hit_token_limit": false}
+{"id": "P5_006:N3", "prediction": "¿Qué quieres decir con lo de que «no eres mi novio, sino tan solo un \"compinche\"»?, me preguntó y seguidamente le respondí: «Pues eso mismo…».", "generated_tokens": 47, "hit_token_limit": false}
+{"id": "P6_001:N1", "prediction": "El comandante exclamó: «¡Nunca se podrá hablar de paz!».", "generated_tokens": 21, "hit_token_limit": false}
+{"id": "P6_001:N2", "prediction": "El comandante exclamó: \"¡Nunca se podrá hablar de “desmantelar arsenales” sin apelar a la paz!\".", "generated_tokens": 35, "hit_token_limit": false}
+{"id": "P6_001:N3", "prediction": "El comandante exclamó: \"¡Nunca se podrá hablar de \"desmantelar arsenales\" ni de \"eliminar lo que llaman ‘estrategia bélica’\" sin apelar a la paz!\"", "generated_tokens": 50, "hit_token_limit": false}
+{"id": "P6_002:N1", "prediction": "El comandante exclamó: «¡Nunca se podrá hablar de paz!».", "generated_tokens": 21, "hit_token_limit": false}
+{"id": "P6_002:N2", "prediction": "El comandante exclamó: «¡Nunca se podrá hablar de \"reducir armas\" sin apelar a la paz!».", "generated_tokens": 34, "hit_token_limit": false}
+{"id": "P6_002:N3", "prediction": "El comandante exclamó: \"¡Nunca se podrá hablar de \"reducir armas\" ni de \"eliminar lo que llaman ‘estrategia bélica’\" sin apelar a la paz!\"", "generated_tokens": 49, "hit_token_limit": false}
+{"id": "P6_003:N1", "prediction": "El comandante exclamó: «¡Nunca se podrá hablar de paz!».", "generated_tokens": 21, "hit_token_limit": false}
+{"id": "P6_003:N2", "prediction": "El comandante exclamó: \"¡Nunca se podrá hablar de “eliminar armamento” sin apelar a la paz!\".", "generated_tokens": 32, "hit_token_limit": false}
+{"id": "P6_003:N3", "prediction": "El comandante exclamó: \"¡Nunca se podrá hablar de 'eliminar armamento' ni de 'eliminar lo que llaman 'estrategia bélica'' sin apelar a la paz!\".", "generated_tokens": 46, "hit_token_limit": false}
+{"id": "P6_004:N1", "prediction": "El comandante exclamó: «¡Nunca se podrá hablar de paz!».", "generated_tokens": 21, "hit_token_limit": false}
+{"id": "P6_004:N2", "prediction": "El comandante exclamó: «¡Nunca se podrá hablar de \"disminuir arsenales\" sin apelar a la paz!».", "generated_tokens": 34, "hit_token_limit": false}
+{"id": "P6_004:N3", "prediction": "El comandante exclamó: \"¡Nunca se podrá hablar de \"disminuir arsenales\" ni de \"eliminar lo que llaman ‘estrategia bélica’\" sin apelar a la paz!\"", "generated_tokens": 49, "hit_token_limit": false}
+{"id": "P6_005:N1", "prediction": "El comandante exclamó: «¡Nunca se podrá hablar de paz!».", "generated_tokens": 21, "hit_token_limit": false}
+{"id": "P6_005:N2", "prediction": "El comandante exclamó: \"¡Nunca se podrá hablar de “desactivar armas nucleares” sin apelar a la paz!\".", "generated_tokens": 36, "hit_token_limit": false}
+{"id": "P6_005:N3", "prediction": "El comandante exclamó: \"¡Nunca se podrá hablar de \"desactivar armas nucleares\" ni de \"eliminar lo que llaman ‘estrategia bélica’\" sin apelar a la paz!\"", "generated_tokens": 51, "hit_token_limit": false}
+{"id": "P6_006:N1", "prediction": "El comandante exclamó: «¡Nunca se podrá hablar de paz!».", "generated_tokens": 21, "hit_token_limit": false}
+{"id": "P6_006:N2", "prediction": "El comandante exclamó: «¡Nunca se podrá hablar de “restringir armamento” sin apelar a la paz!».", "generated_tokens": 34, "hit_token_limit": false}
+{"id": "P6_006:N3", "prediction": "El comandante exclamó: \"¡Nunca se podrá hablar de \"restringir armamento\" ni de \"eliminar lo que llaman ‘estrategia bélica’\" sin apelar a la paz!\"", "generated_tokens": 49, "hit_token_limit": false}
+{"id": "P7_001:N1", "prediction": "«Esta expresión —concluyó el perito— me parece nefasta».", "generated_tokens": 19, "hit_token_limit": false}
+{"id": "P7_001:N2", "prediction": "La expresión «derecho a la educación» —concluyó el perito— me parece nefasta.", "generated_tokens": 25, "hit_token_limit": false}
+{"id": "P7_001:N3", "prediction": "\"La frase del estudio «el «derecho a la educación» no es una expresión adecuada» —concluyó el perito— me parece nefasta\".", "generated_tokens": 37, "hit_token_limit": false}
+{"id": "P7_002:N1", "prediction": "«Esta expresión —concluyó el perito— me parece nefasta».", "generated_tokens": 19, "hit_token_limit": false}
+{"id": "P7_002:N2", "prediction": "La expresión «derecho a la salud» —concluyó el perito— me parece nefasta.", "generated_tokens": 25, "hit_token_limit": false}
+{"id": "P7_002:N3", "prediction": "\"La frase del estudio «el \"derecho a la salud\" no es una expresión adecuada» —concluyó el perito— me parece nefasta\".", "generated_tokens": 37, "hit_token_limit": false}
+{"id": "P7_003:N1", "prediction": "«Esta expresión —concluyó el perito— me parece nefasta».", "generated_tokens": 19, "hit_token_limit": false}
+{"id": "P7_003:N2", "prediction": "La expresión «derecho a la vivienda» —concluyó el perito— me parece nefasta.", "generated_tokens": 26, "hit_token_limit": false}
+{"id": "P7_003:N3", "prediction": "\"La frase del estudio «el «derecho a la vivienda» no es una expresión adecuada» —concluyó el perito— me parece nefasta\".", "generated_tokens": 38, "hit_token_limit": false}
+{"id": "P7_004:N1", "prediction": "«Esta expresión —concluyó el perito— me parece nefasta».", "generated_tokens": 19, "hit_token_limit": false}
+{"id": "P7_004:N2", "prediction": "La expresión «derecho a la alimentación» —concluyó el perito— me parece nefasta.", "generated_tokens": 26, "hit_token_limit": false}
+{"id": "P7_004:N3", "prediction": "\"La frase del estudio «el «derecho a la alimentación» no es una expresión adecuada» —concluyó el perito— me parece nefasta\".", "generated_tokens": 38, "hit_token_limit": false}
+{"id": "P7_005:N1", "prediction": "«Esta expresión —concluyó el perito— me parece nefasta».", "generated_tokens": 19, "hit_token_limit": false}
+{"id": "P7_005:N2", "prediction": "La expresión «derecho a la igualdad» —concluyó el perito— me parece nefasta.", "generated_tokens": 26, "hit_token_limit": false}
+{"id": "P7_005:N3", "prediction": "\"La frase del estudio «el «derecho a la igualdad» no es una expresión adecuada» —concluyó el perito— me parece nefasta\".", "generated_tokens": 38, "hit_token_limit": false}
+{"id": "P7_006:N1", "prediction": "«Esta expresión —concluyó el perito— me parece nefasta».", "generated_tokens": 19, "hit_token_limit": false}
+{"id": "P7_006:N2", "prediction": "La expresión «derecho a la información» —concluyó el perito— me parece nefasta.", "generated_tokens": 25, "hit_token_limit": false}
+{"id": "P7_006:N3", "prediction": "\"La frase del estudio «el \"derecho a la información\" no es una expresión adecuada» —concluyó el perito— me parece nefasta\".", "generated_tokens": 37, "hit_token_limit": false}
+{"id": "PAR_00027:CONTROL", "prediction": "En la performance, por ejemplo, la técnica sería el propio cuerpo del artista.", "generated_tokens": 18, "hit_token_limit": false}
+{"id": "PAR_00246:CONTROL", "prediction": "Estos autores admitían que el liderazgo en el contexto del negocio no era tarea fácil.", "generated_tokens": 22, "hit_token_limit": false}
+{"id": "PAR_00709:CONTROL", "prediction": "Estamos enzarzados en una batalla por el alma de esta máquina, y estamos perdiendo.", "generated_tokens": 24, "hit_token_limit": false}
+{"id": "PAR_01421:CONTROL", "prediction": "Y de nuevo, los grandes beneficios se conservaron.", "generated_tokens": 13, "hit_token_limit": false}
+{"id": "PAR_01690:CONTROL", "prediction": "Todo es extraordinario, todo es horrible y todo avanza demasiado rápido.", "generated_tokens": 17, "hit_token_limit": false}
+{"id": "PAR_02490:CONTROL", "prediction": "En tiempos difíciles, los directores deben tomar decisiones complicadas sobre inversión y dividendos.", "generated_tokens": 23, "hit_token_limit": false}
+{"id": "PAR_02886:CONTROL", "prediction": "Sin embargo, la evolución no es eso.", "generated_tokens": 11, "hit_token_limit": false}
+{"id": "PAR_03037:CONTROL", "prediction": "Es territorio de herbívoros, y por lo tanto también de carnívoros.", "generated_tokens": 21, "hit_token_limit": false}
+{"id": "PAR_03250:CONTROL", "prediction": "En el mundo corporativo, la publicidad se ve a veces como una pérdida de dinero.", "generated_tokens": 20, "hit_token_limit": false}
+{"id": "PAR_03690:CONTROL", "prediction": "En el último escalafón social se encontraban los esclavos, cuya condición era hereditaria.", "generated_tokens": 26, "hit_token_limit": false}
+{"id": "PAR_03727:CONTROL", "prediction": "Estas áreas poseen además conexiones recíprocas entre ellas, así como también con la amígdala.", "generated_tokens": 26, "hit_token_limit": false}

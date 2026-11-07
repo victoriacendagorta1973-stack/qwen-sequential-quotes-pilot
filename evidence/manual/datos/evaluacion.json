@@ -1,0 +1,28 @@
+{
+  "status": "complete",
+  "model": "Qwen/Qwen2.5-7B-Instruct",
+  "revision": "a09a35458c702b33eeacc393d103063234e8bc28",
+  "adapter_sha256": "6b73b78fdd648975387bb921c9786b58727a7b71887edd96f4d6de27fbc62a34",
+  "references_sha256": "27bedae9dccce81d0c416aa321a098df9267a03f5e5b50dea69452f60f8c65e5",
+  "training_performed": false,
+  "examples_in_prompt": false,
+  "started_utc": "2026-11-07T17:08:56.219771+00:00",
+  "n": 12,
+  "versions": {
+    "torch": "2.8.0+cu128",
+    "transformers": "5.22.1",
+    "accelerate": "1.15.0",
+    "peft": "0.21.2",
+    "safetensors": "0.8.0",
+    "huggingface-hub": "2.4.0"
+  },
+  "gpu": "NVIDIA RTX A6000",
+  "generation": {
+    "do_sample": false,
+    "num_beams": 1,
+    "repetition_penalty": 1.0,
+    "max_new_tokens": 1024
+  },
+  "finished_utc": "2026-11-07T17:09:43.993969+00:00",
+  "elapsed_seconds": 47.77422967599705
+}

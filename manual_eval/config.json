@@ -1,0 +1,12 @@
+{
+  "model": "Qwen/Qwen2.5-7B-Instruct",
+  "revision": "a09a35458c702b33eeacc393d103063234e8bc28",
+  "instruction": "Sustituye únicamente los delimitadores de comillas según su anidamiento en español: primer nivel « », segundo nivel “ ”, tercer nivel ‘ ’. Puede haber varias citas separadas del mismo nivel. Conserva exactamente todas las palabras, espacios, signos de puntuación y marcadores entre corchetes. No añadas ni elimines delimitadores. Si el texto no contiene comillas, devuélvelo sin cambios. Devuelve solo el texto resultante, sin explicaciones.",
+  "seed": 20261107,
+  "wall_time_seconds": 1200,
+  "max_attempts": 3,
+  "adapter_sha256": "6b73b78fdd648975387bb921c9786b58727a7b71887edd96f4d6de27fbc62a34",
+  "adapter_config_sha256": "bfbd09bb8fa45284de61af4801e8e5ec0f43ab881dd37ea7de37186eb7425b39",
+  "training_performed": false,
+  "references_file_sha256": "27bedae9dccce81d0c416aa321a098df9267a03f5e5b50dea69452f60f8c65e5"
+}

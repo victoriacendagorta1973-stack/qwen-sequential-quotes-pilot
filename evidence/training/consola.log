@@ -1,0 +1,66 @@
+
+COMANDO: ['/usr/bin/python3', '-m', 'pip', 'install', '--disable-pip-version-check', '--no-deps', 'peft==0.21.2']
+Collecting peft==0.21.2
+  Downloading peft-0.21.2-py3-none-any.whl.metadata (15 kB)
+Downloading peft-0.21.2-py3-none-any.whl (835 kB)
+   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 835.4/835.4 kB 86.2 MB/s  0:00:00
+Installing collected packages: peft
+Successfully installed peft-0.21.2
+
+COMANDO: ['/usr/bin/python3', '-m', 'unittest', 'discover', '-p', 'test_*.py', '-v']
+test_groups_and_origin (test_piloto.Tests.test_groups_and_origin) ... ok
+test_intended_layer_indices (test_piloto.Tests.test_intended_layer_indices) ... ok
+test_metrics_duplicates_and_missing (test_piloto.Tests.test_metrics_duplicates_and_missing) ... ok
+test_replay_counts_and_no_eval_data (test_piloto.Tests.test_replay_counts_and_no_eval_data) ... ok
+
+----------------------------------------------------------------------
+Ran 4 tests in 0.015s
+
+OK
+
+COMANDO: ['/usr/bin/python3', '-u', 'entrenar.py', '--out', '/workspace/piloto_comillas_30_v1/piloto_secuencial_v1/resultados_20261106_200031/piloto', '--budget-seconds', '2668']
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+Loading weights:   0%|          | 0/339 [00:00<?, ?it/s]Loading weights:   0%|          | 1/339 [00:00<00:43,  7.79it/s]Loading weights:   1%|          | 2/339 [00:00<00:53,  6.36it/s]Loading weights:   5%|▌         | 17/339 [00:00<00:06, 51.54it/s]Loading weights:   9%|▊         | 29/339 [00:00<00:04, 72.83it/s]Loading weights:  12%|█▏        | 40/339 [00:00<00:03, 82.73it/s]Loading weights:  15%|█▌        | 52/339 [00:00<00:03, 93.37it/s]Loading weights:  19%|█▉        | 66/339 [00:00<00:02, 103.83it/s]Loading weights:  23%|██▎       | 78/339 [00:00<00:02, 106.99it/s]Loading weights:  27%|██▋       | 90/339 [00:01<00:02, 108.63it/s]Loading weights:  30%|███       | 102/339 [00:01<00:02, 104.45it/s]Loading weights:  34%|███▎      | 114/339 [00:01<00:02, 102.66it/s]Loading weights:  37%|███▋      | 126/339 [00:01<00:02, 102.97it/s]Loading weights:  41%|████      | 138/339 [00:01<00:01, 102.39it/s]Loading weights:  44%|████▍     | 150/339 [00:01<00:01, 99.81it/s] Loading weights:  48%|████▊     | 162/339 [00:01<00:01, 100.52it/s]Loading weights:  51%|█████▏    | 174/339 [00:01<00:01, 100.22it/s]Loading weights:  55%|█████▍    | 185/339 [00:02<00:01, 100.72it/s]Loading weights:  58%|█████▊    | 198/339 [00:02<00:01, 103.32it/s]Loading weights:  62%|██████▏   | 209/339 [00:02<00:01, 97.12it/s] Loading weights:  65%|██████▍   | 220/339 [00:02<00:01, 97.65it/s]Loading weights:  68%|██████▊   | 232/339 [00:02<00:01, 90.71it/s]Loading weights:  72%|███████▏  | 245/339 [00:02<00:00, 97.25it/s]Loading weights:  76%|███████▌  | 256/339 [00:02<00:00, 98.81it/s]Loading weights:  79%|███████▉  | 267/339 [00:02<00:00, 92.61it/s]Loading weights:  82%|████████▏ | 277/339 [00:03<00:00, 90.08it/s]Loading weights:  85%|████████▍ | 287/339 [00:03<00:00, 89.64it/s]Loading weights:  88%|████████▊ | 297/339 [00:03<00:00, 89.84it/s]Loading weights:  91%|█████████ | 307/339 [00:03<00:00, 88.07it/s]Loading weights:  94%|█████████▍| 318/339 [00:03<00:00, 89.81it/s]Loading weights:  97%|█████████▋| 330/339 [00:03<00:00, 94.20it/s]Loading weights: 100%|██████████| 339/339 [00:03<00:00, 94.17it/s]
+baseline {"n": 83, "exact": 26, "exact_rate": 0.3132530120481928, "hierarchy_valid_rate": 0.3253012048192771, "non_quote_preserved_rate": 0.8795180722891566}
+N2 {'step': 10, 'loss': 0.0003251080561312847, 'lr': 0.00018371664782625287, 'grad_norm': 0.006431764457374811, 'elapsed_seconds': 86.9906420679763}
+N2 {'step': 20, 'loss': 0.0005774142991867848, 'lr': 0.00011645945902807338, 'grad_norm': 0.011941561475396156, 'elapsed_seconds': 93.96231978805736}
+N2 {'step': 30, 'loss': 0.00028729839687002823, 'lr': 3.857872873103322e-05, 'grad_norm': 0.0020644054748117924, 'elapsed_seconds': 101.61885842308402}
+N2 {'step': 40, 'loss': 0.00025757533876458183, 'lr': 3.415506993330153e-07, 'grad_norm': 0.0038828824181109667, 'elapsed_seconds': 108.9626859179698}
+post_N2 {"n": 83, "exact": 60, "exact_rate": 0.7228915662650602, "hierarchy_valid_rate": 0.7349397590361446, "non_quote_preserved_rate": 0.9759036144578314}
+N3 {'step': 10, 'loss': 0.00022989344142843038, 'lr': 0.00018371664782625287, 'grad_norm': 0.002898229518905282, 'elapsed_seconds': 189.62757411412895}
+N3 {'step': 20, 'loss': 0.000212046015803935, 'lr': 0.00011645945902807338, 'grad_norm': 0.003946157172322273, 'elapsed_seconds': 196.74176788004115}
+N3 {'step': 30, 'loss': 0.0006078368933231104, 'lr': 3.857872873103322e-05, 'grad_norm': 0.05904555320739746, 'elapsed_seconds': 204.4361111719627}
+N3 {'step': 40, 'loss': 0.0001617205562070012, 'lr': 3.415506993330153e-07, 'grad_norm': 0.002270492957904935, 'elapsed_seconds': 211.71004065894522}
+post_N3 {"n": 83, "exact": 76, "exact_rate": 0.9156626506024096, "hierarchy_valid_rate": 0.9879518072289156, "non_quote_preserved_rate": 0.9879518072289156}
+Piloto secuencial terminado. Pares únicos; desarrollo, no test independiente.
+
+baseline
+  train N0: 6/6 exactos
+  train N1: 12/12 exactos
+  train N2: 2/17 exactos
+  train N3: 0/22 exactos
+  dev N0: 5/5 exactos
+  dev N1: 1/2 exactos
+  dev N2: 0/7 exactos
+  dev N3: 0/12 exactos
+post_N2
+  train N0: 6/6 exactos
+  train N1: 12/12 exactos
+  train N2: 17/17 exactos
+  train N3: 12/22 exactos
+  dev N0: 4/5 exactos
+  dev N1: 1/2 exactos
+  dev N2: 6/7 exactos
+  dev N3: 2/12 exactos
+post_N3
+  train N0: 6/6 exactos
+  train N1: 12/12 exactos
+  train N2: 17/17 exactos
+  train N3: 22/22 exactos
+  dev N0: 4/5 exactos
+  dev N1: 2/2 exactos
+  dev N2: 7/7 exactos
+  dev N3: 6/12 exactos
+
+No se han medido GSM8K, IFEval o MMLU. No se certifica conservación general.
+Para inferencia final se usa únicamente adapter_N3 con el modelo base exacto.

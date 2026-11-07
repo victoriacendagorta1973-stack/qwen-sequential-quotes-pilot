@@ -1,0 +1,21 @@
+{
+  "candidates_sha256": "27bedae9dccce81d0c416aa321a098df9267a03f5e5b50dea69452f60f8c65e5",
+  "accepted_ids": [
+    "MANUAL_01:N1",
+    "MANUAL_01:N2",
+    "MANUAL_01:N3",
+    "MANUAL_02:N1",
+    "MANUAL_02:N2",
+    "MANUAL_02:N3",
+    "MANUAL_03:N1",
+    "MANUAL_03:N2",
+    "MANUAL_03:N3",
+    "MANUAL_04:N1",
+    "MANUAL_04:N2",
+    "MANUAL_04:N3"
+  ],
+  "reviewed_without_predictions": true,
+  "source": "Último lote manual completo de la usuaria en este chat",
+  "editing": "Sin reformulaciones; se omiten separadores de párrafos y espacios de formato al final de los párrafos.",
+  "scope": "Evaluación exclusiva; sin entrenamiento; cuatro familias relacionadas, no doce observaciones independientes."
+}

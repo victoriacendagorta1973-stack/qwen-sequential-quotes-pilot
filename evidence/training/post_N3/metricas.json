@@ -1,0 +1,84 @@
+{
+  "global_records": {
+    "n": 113,
+    "exact": 106,
+    "exact_rate": 0.9380530973451328,
+    "hierarchy_valid_rate": 0.9911504424778761,
+    "non_quote_preserved_rate": 0.9911504424778761
+  },
+  "unique_pairs": {
+    "n": 83,
+    "exact": 76,
+    "exact_rate": 0.9156626506024096,
+    "hierarchy_valid_rate": 0.9879518072289156,
+    "non_quote_preserved_rate": 0.9879518072289156
+  },
+  "by_split": {
+    "train": {
+      "0": {
+        "n": 6,
+        "exact": 6,
+        "exact_rate": 1.0,
+        "hierarchy_valid_rate": 1.0,
+        "non_quote_preserved_rate": 1.0
+      },
+      "1": {
+        "n": 12,
+        "exact": 12,
+        "exact_rate": 1.0,
+        "hierarchy_valid_rate": 1.0,
+        "non_quote_preserved_rate": 1.0
+      },
+      "2": {
+        "n": 17,
+        "exact": 17,
+        "exact_rate": 1.0,
+        "hierarchy_valid_rate": 1.0,
+        "non_quote_preserved_rate": 1.0
+      },
+      "3": {
+        "n": 22,
+        "exact": 22,
+        "exact_rate": 1.0,
+        "hierarchy_valid_rate": 1.0,
+        "non_quote_preserved_rate": 1.0
+      }
+    },
+    "dev": {
+      "0": {
+        "n": 5,
+        "exact": 4,
+        "exact_rate": 0.8,
+        "hierarchy_valid_rate": 1.0,
+        "non_quote_preserved_rate": 0.8
+      },
+      "1": {
+        "n": 2,
+        "exact": 2,
+        "exact_rate": 1.0,
+        "hierarchy_valid_rate": 1.0,
+        "non_quote_preserved_rate": 1.0
+      },
+      "2": {
+        "n": 7,
+        "exact": 7,
+        "exact_rate": 1.0,
+        "hierarchy_valid_rate": 1.0,
+        "non_quote_preserved_rate": 1.0
+      },
+      "3": {
+        "n": 12,
+        "exact": 6,
+        "exact_rate": 0.5,
+        "hierarchy_valid_rate": 0.9166666666666666,
+        "non_quote_preserved_rate": 1.0
+      }
+    }
+  },
+  "generation": {
+    "do_sample": false,
+    "num_beams": 1,
+    "repetition_penalty": 1.0,
+    "max_new_tokens": 1024
+  }
+}

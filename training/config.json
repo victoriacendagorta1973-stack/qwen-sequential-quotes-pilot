@@ -1,0 +1,49 @@
+{
+  "model": "Qwen/Qwen2.5-7B-Instruct",
+  "revision": "a09a35458c702b33eeacc393d103063234e8bc28",
+  "instruction": "Sustituye únicamente los delimitadores de comillas según su anidamiento en español: primer nivel « », segundo nivel “ ”, tercer nivel ‘ ’. Puede haber varias citas separadas del mismo nivel. Conserva exactamente todas las palabras, espacios, signos de puntuación y marcadores entre corchetes. No añadas ni elimines delimitadores. Si el texto no contiene comillas, devuélvelo sin cambios. Devuelve solo el texto resultante, sin explicaciones.",
+  "layers": [
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19
+  ],
+  "target_modules": [
+    "q_proj",
+    "k_proj",
+    "v_proj",
+    "o_proj"
+  ],
+  "r": 16,
+  "alpha": 32,
+  "dropout": 0.0,
+  "lr": 0.0002,
+  "warmup_ratio": 0.05,
+  "steps_per_stage": 40,
+  "gradient_accumulation": 4,
+  "max_sequence_length": 768,
+  "max_new_tokens": 1024,
+  "seed": 42,
+  "wall_time_seconds": 2700,
+  "peft_version": "0.21.2",
+  "replay": {
+    "N2": {
+      "N1": 0.3,
+      "N2": 0.7
+    },
+    "N3": {
+      "N1": 0.2,
+      "N2": 0.3,
+      "N3": 0.5
+    }
+  },
+  "controls_fraction": 0.1
+}

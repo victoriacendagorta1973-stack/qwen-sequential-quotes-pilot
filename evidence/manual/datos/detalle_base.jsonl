@@ -1,0 +1,12 @@
+{"id": "MANUAL_01:N1", "category": "N1", "level": 1, "group": "MANUAL_01", "exact": true, "hierarchy_valid": true, "delimiter_positions_preserved": true, "non_quote_preserved": true, "hit_token_limit": false}
+{"id": "MANUAL_01:N2", "category": "N2", "level": 2, "group": "MANUAL_01", "exact": false, "hierarchy_valid": false, "delimiter_positions_preserved": false, "non_quote_preserved": true, "hit_token_limit": false}
+{"id": "MANUAL_01:N3", "category": "N3", "level": 3, "group": "MANUAL_01", "exact": false, "hierarchy_valid": false, "delimiter_positions_preserved": false, "non_quote_preserved": true, "hit_token_limit": false}
+{"id": "MANUAL_02:N1", "category": "N1", "level": 1, "group": "MANUAL_02", "exact": true, "hierarchy_valid": true, "delimiter_positions_preserved": true, "non_quote_preserved": true, "hit_token_limit": false}
+{"id": "MANUAL_02:N2", "category": "N2", "level": 2, "group": "MANUAL_02", "exact": false, "hierarchy_valid": false, "delimiter_positions_preserved": true, "non_quote_preserved": true, "hit_token_limit": false}
+{"id": "MANUAL_02:N3", "category": "N3", "level": 3, "group": "MANUAL_02", "exact": false, "hierarchy_valid": false, "delimiter_positions_preserved": false, "non_quote_preserved": false, "hit_token_limit": false}
+{"id": "MANUAL_03:N1", "category": "N1", "level": 1, "group": "MANUAL_03", "exact": false, "hierarchy_valid": false, "delimiter_positions_preserved": false, "non_quote_preserved": true, "hit_token_limit": false}
+{"id": "MANUAL_03:N2", "category": "N2", "level": 2, "group": "MANUAL_03", "exact": false, "hierarchy_valid": false, "delimiter_positions_preserved": false, "non_quote_preserved": true, "hit_token_limit": false}
+{"id": "MANUAL_03:N3", "category": "N3", "level": 3, "group": "MANUAL_03", "exact": false, "hierarchy_valid": false, "delimiter_positions_preserved": false, "non_quote_preserved": true, "hit_token_limit": false}
+{"id": "MANUAL_04:N1", "category": "N1", "level": 1, "group": "MANUAL_04", "exact": false, "hierarchy_valid": false, "delimiter_positions_preserved": true, "non_quote_preserved": true, "hit_token_limit": false}
+{"id": "MANUAL_04:N2", "category": "N2", "level": 2, "group": "MANUAL_04", "exact": false, "hierarchy_valid": false, "delimiter_positions_preserved": false, "non_quote_preserved": true, "hit_token_limit": false}
+{"id": "MANUAL_04:N3", "category": "N3", "level": 3, "group": "MANUAL_04", "exact": false, "hierarchy_valid": false, "delimiter_positions_preserved": false, "non_quote_preserved": true, "hit_token_limit": false}

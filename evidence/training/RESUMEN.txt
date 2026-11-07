@@ -1,0 +1,32 @@
+Piloto secuencial terminado. Pares únicos; desarrollo, no test independiente.
+
+baseline
+  train N0: 6/6 exactos
+  train N1: 12/12 exactos
+  train N2: 2/17 exactos
+  train N3: 0/22 exactos
+  dev N0: 5/5 exactos
+  dev N1: 1/2 exactos
+  dev N2: 0/7 exactos
+  dev N3: 0/12 exactos
+post_N2
+  train N0: 6/6 exactos
+  train N1: 12/12 exactos
+  train N2: 17/17 exactos
+  train N3: 12/22 exactos
+  dev N0: 4/5 exactos
+  dev N1: 1/2 exactos
+  dev N2: 6/7 exactos
+  dev N3: 2/12 exactos
+post_N3
+  train N0: 6/6 exactos
+  train N1: 12/12 exactos
+  train N2: 17/17 exactos
+  train N3: 22/22 exactos
+  dev N0: 4/5 exactos
+  dev N1: 2/2 exactos
+  dev N2: 7/7 exactos
+  dev N3: 6/12 exactos
+
+No se han medido GSM8K, IFEval o MMLU. No se certifica conservación general.
+Para inferencia final se usa únicamente adapter_N3 con el modelo base exacto.
